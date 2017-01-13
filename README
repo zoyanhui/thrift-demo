@@ -1,0 +1,5 @@
+thrift server 和 client的demo项目， 包括两种通信方法：
+1. 简单明文通信方法
+2. 带SSL加密的通信方法
+
+通过maven插件maven-thrift-plugin管理thrift文件的java代码编译生成
